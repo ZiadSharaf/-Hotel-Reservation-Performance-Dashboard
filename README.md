@@ -58,7 +58,6 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 ##🛠️ Tools & Technologies
 
 * **Power BI** (Power Query / M, Data Modeling, DAX)
-* Optional: Python / pandas for advanced cleaning or reproducible scripts
 
 ---
 
