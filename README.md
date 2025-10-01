@@ -200,3 +200,18 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 * Improve **direct booking** channels and incentivize repeat guests (repeat rate ~3.19%).
 * Use lead-time segmentation for targeted offers.
 
+---
+
+## 🖼️ Screenshots  
+
+### 📊 Main Dashboard  
+![Booking Overview](Screenshots/Booking Overview.png)
+
+### 📊 Customer & Market Insights 1  
+![Customer & Market Insights 1](Screenshots/Customer & Market Insights 1.png)
+
+### 📊 Customer & Market Insights 2 
+![Customer & Market Insights 2](Screenshots/Customer & Market Insights 2.png)
+
+### 📊 Revenue & Operations
+![Revenue & Operations](Screenshots/Revenue & Operations.png)
