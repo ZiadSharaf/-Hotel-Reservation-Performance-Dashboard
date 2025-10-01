@@ -12,7 +12,7 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 
 ---
 
-## Dataset Description
+##🧾 Dataset Description
 
 | Column Name                    | Description                                         |
 | ------------------------------ | --------------------------------------------------- |
@@ -55,14 +55,14 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 
 ---
 
-## Tools & Technologies
+##🛠️ Tools & Technologies
 
 * **Power BI** (Power Query / M, Data Modeling, DAX)
 * Optional: Python / pandas for advanced cleaning or reproducible scripts
 
 ---
 
-## Data Cleaning
+##🧹 Data Cleaning
 
 1. **Renamed columns** to readable/consistent names.
 2. **Fixed invalid ADR values**: negative ADR values were converted to positive (absolute value).
@@ -92,7 +92,7 @@ Relationships: `Fact_Bookings` -> each `Dim_*` via surrogate keys; `Fact_Booking
 
 ---
 
-## Key Insights
+##📈 Key Insights
 
 ### Booking Overview
 
