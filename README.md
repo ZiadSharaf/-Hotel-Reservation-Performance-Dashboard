@@ -200,16 +200,3 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 * Improve **direct booking** channels and incentivize repeat guests (repeat rate ~3.19%).
 * Use lead-time segmentation for targeted offers.
 
----
-
-## License
-
-Choose an appropriate license (e.g., MIT) and add `LICENSE`.
-
----
-
-## Next Steps (Optional)
-
-* Add `Notebooks/` with reproducible cleaning code in Python.
-* Add CI checks to verify no PII in committed CSVs.
-* Publish a short `docs/` walkthrough for stakeholders.
