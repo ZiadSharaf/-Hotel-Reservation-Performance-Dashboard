@@ -74,7 +74,7 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 
 Built a date dimension and converted the main table into a star schema with the following dimensions:
 
-* `Dim_Date` (calendar from 2015-07-01 to 2017-08-31)
+* `Dim_Date` 
 * `Dim_Country`
 * `Dim_Customer_Type`
 * `Dim_Deposit_Type`
