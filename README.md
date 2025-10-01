@@ -61,7 +61,7 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 
 1. **Renamed columns** to readable/consistent names.
 2. **Fixed invalid ADR values**: negative ADR values were converted to positive (absolute value).
-3. **Handled missing values** by replacing missing entries with the label `Unknown` (categorical) or using domain-appropriate defaults.
+3. **Handled missing values** by replacing missing entries with `Unknown` 
 4. **Removed irrelevant columns** (PII or unused fields) such as `credit_card`, `phone-number`, `email`, `name` before analysis.
 
 ---
