@@ -1,4 +1,4 @@
-# Hotel Reservation Performance Dashboard
+#🏨 Hotel Reservation Performance Dashboard
 
 
 
@@ -196,9 +196,26 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 
 ## Conclusion & Recommendations
 
-* Focus on **reducing cancellations** (high rate driven by non‑refundable and no‑deposit policies).
-* Improve **direct booking** channels and incentivize repeat guests (repeat rate ~3.19%).
-* Use lead-time segmentation for targeted offers.
+## 📌 Recommendations
+
+### 🛑 Cancellation Management
+- Strengthen cancellation policies, especially for **Non-Refundable bookings** where cancellations remain surprisingly high.  
+- Implement **flexible rebooking options** instead of outright cancellations to retain revenue.   
+
+### 🤝 Customer Retention & Loyalty
+- Launch **loyalty programs or perks** (discounts for repeated stays, free upgrades) to increase repeat guest rates beyond the current **3.19%**.  
+- Personalize offers based on **booking history and special requests**.  
+
+### 🌐 Channel Diversification
+- Reduce dependency on **TA/TO** by strengthening direct booking channels (e.g., via hotel websites, apps, and targeted digital campaigns).  
+- Offer **exclusive incentives for direct bookings** (better rates, free breakfast, loyalty points).  
+
+### 🎯 Market Diversification
+- Expand marketing campaigns beyond **Portugal** to reduce reliance on a single source market.    
+
+### ⚙️ Operational Improvements
+- Shorten average **waiting list times** (currently 2.23 days) to capture demand more efficiently.   
+
 
 ---
 
@@ -215,4 +232,3 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 
 ### 📊 Revenue & Operations  
 ![Revenue & Operations](Screenshots/Revenue_Operations.png)
-
