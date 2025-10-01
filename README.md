@@ -8,7 +8,7 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 
 ---
 
-##🧾 Dataset Description
+🧾 Dataset Description
 
 | Column Name                    | Description                                         |
 | ------------------------------ | --------------------------------------------------- |
@@ -51,13 +51,13 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 
 ---
 
-##🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 * **Power BI** (Power Query / M, Data Modeling, DAX)
 
 ---
 
-##🧹 Data Cleaning
+🧹 Data Cleaning
 
 1. **Renamed columns** to readable/consistent names.
 2. **Fixed invalid ADR values**: negative ADR values were converted to positive (absolute value).
@@ -87,7 +87,7 @@ Relationships: `Fact_Bookings` -> each `Dim_*` via keys.
 
 ---
 
-##📈 Key Insights
+📈 Key Insights
 
 ### Booking Overview
 
@@ -168,7 +168,7 @@ Relationships: `Fact_Bookings` -> each `Dim_*` via keys.
 
 ---
 
-## Dashboards
+📊 Dashboards
 
 1. **Booking Overview** — total bookings, cancellations, lead time, ADR, revenue trend, cancellation by deposit type.
 2. **Customer & Market Insights** — repeated guests, distribution channel, market segments, country heatmap.
@@ -190,7 +190,7 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 
 ---
 
-## Conclusion & Recommendations
+## 💡Conclusion & Recommendations
 
 ## 📌 Recommendations
 
@@ -215,7 +215,7 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 
 ---
 
-## 🖼️ Screenshots  
+🖼️ Screenshots  
 
 ### 📊 Main Dashboard  
 ![Booking Overview](Screenshots/Booking_Overview.png)
