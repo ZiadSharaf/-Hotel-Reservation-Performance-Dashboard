@@ -205,13 +205,14 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 ## 🖼️ Screenshots  
 
 ### 📊 Main Dashboard  
-![Booking Overview](Screenshots/Booking Overview.png)
+![Booking Overview](Screenshots/Booking_Overview.png)
 
 ### 📊 Customer & Market Insights 1  
-![Customer & Market Insights 1](Screenshots/Customer & Market Insights 1.png)
+![Customer & Market Insights 1](Screenshots/Customer_Market_Insights_1.png)
 
-### 📊 Customer & Market Insights 2 
-![Customer & Market Insights 2](Screenshots/Customer & Market Insights 2.png)
+### 📊 Customer & Market Insights 2  
+![Customer & Market Insights 2](Screenshots/Customer_Market_Insights_2.png)
 
-### 📊 Revenue & Operations
-![Revenue & Operations](Screenshots/Revenue & Operations.png)
+### 📊 Revenue & Operations  
+![Revenue & Operations](Screenshots/Revenue_Operations.png)
+
