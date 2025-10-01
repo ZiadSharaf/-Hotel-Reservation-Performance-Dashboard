@@ -199,7 +199,6 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 * Focus on **reducing cancellations** (high rate driven by non‑refundable and no‑deposit policies).
 * Improve **direct booking** channels and incentivize repeat guests (repeat rate ~3.19%).
 * Use lead-time segmentation for targeted offers.
-* Add **data quality checks** into ETL (flag negatives, out-of-range values, PII filters).
 
 ---
 
