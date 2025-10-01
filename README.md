@@ -1,8 +1,4 @@
-#🏨 Hotel Reservation Performance Dashboard
-
-
-
----
+# 🏨 Hotel Reservation Performance Dashboard
 
 ##📌 Project Overview
 
