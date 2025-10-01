@@ -1,6 +1,6 @@
 # 🏨 Hotel Reservation Performance Dashboard
 
-##📌 Project Overview
+📌 Project Overview
 
 The project dataset contains **36 columns** and **119,390 rows**. The hotel booking data covers the period from **1 July 2015** to **31 August 2017**. Data was cleaned and missing values handled in order to build a decision-support dashboard.
 
