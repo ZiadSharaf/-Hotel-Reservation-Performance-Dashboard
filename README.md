@@ -1,6 +1,6 @@
 # 🏨 Hotel Reservation Performance Dashboard
 
-📌 Project Overview
+##📌 Project Overview
 
 The project dataset contains **36 columns** and **119,390 rows**. The hotel booking data covers the period from **1 July 2015** to **31 August 2017**. Data was cleaned and missing values handled in order to build a decision-support dashboard.
 
@@ -51,13 +51,13 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 
 ---
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 
 * **Power BI** (Power Query / M, Data Modeling, DAX)
 
 ---
 
-🧹 Data Cleaning
+##🧹 Data Cleaning
 
 1. **Renamed columns** to readable/consistent names.
 2. **Fixed invalid ADR values**: negative ADR values were converted to positive (absolute value).
@@ -88,7 +88,7 @@ Relationships: `Fact_Bookings` -> each `Dim_*` via keys.
 ![Data_Modeling](Screenshots/Data_Modeling.png)
 ---
 
-📈 Key Insights
+##📈 Key Insights
 
 ### Booking Overview
 
@@ -169,7 +169,7 @@ Relationships: `Fact_Bookings` -> each `Dim_*` via keys.
 
 ---
 
-📊 Dashboards
+##📊 Dashboards
 
 1. **Booking Overview** — total bookings, cancellations, lead time, ADR, revenue trend, cancellation by deposit type.
 2. **Customer & Market Insights** — repeated guests, distribution channel, market segments, country heatmap.
@@ -216,7 +216,7 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 
 ---
 
-🖼️ Screenshots  
+##🖼️ Screenshots  
 
 ### 📊 Booking Overview 
 ![Booking Overview](Screenshots/Booking_Overview.png)
