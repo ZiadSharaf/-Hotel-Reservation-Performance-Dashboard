@@ -64,7 +64,7 @@ This project analyzes a large dataset of hotel bookings, containing **36 columns
 
 ---
 
-## Data Modeling
+## 🧱 Data Modeling
 
 Built a date dimension and converted the main table into a star schema with the following dimensions:
 
