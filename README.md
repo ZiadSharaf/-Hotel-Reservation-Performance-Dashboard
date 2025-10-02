@@ -84,7 +84,7 @@ Built a date dimension and converted the main table into a star schema with the 
 Fact table: `Fact_Bookings`
 
 Relationships: `Fact_Bookings` -> each `Dim_*` via keys.
-
+![Data_Modeling](Screenshots/Data_Modeling.png)
 ---
 
 📈 Key Insights
@@ -217,7 +217,7 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 
 🖼️ Screenshots  
 
-### 📊 Main Dashboard  
+### 📊 Booking Overview 
 ![Booking Overview](Screenshots/Booking_Overview.png)
 
 ### 📊 Customer & Market Insights 1  
