@@ -167,18 +167,6 @@ Relationships: `Fact_Bookings` -> each `Dim_*` via keys.
 
 ---
 
-## 📊 Dashboards
-
-1. **Booking Overview** — total bookings, cancellations, lead time, ADR, revenue trend, cancellation by deposit type.
-2. **Customer & Market Insights** — repeated guests, distribution channel, market segments, country heatmap.
-3. **Customer Composition** — party size, special requests, parking needs, lead-time buckets.
-4. **Revenue & Operations** — revenue by year/month, ADR distribution, waiting list analysis, booking changes.
-
-Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribution Channel`, and `Country`.
-
----
-
-
 ## How to Use
 
 1. Clone the repo.
@@ -190,8 +178,6 @@ Each page includes slicers for `Hotel Type`, `Year`, `Market Segment`, `Distribu
 ---
 
 ## 💡Conclusion & Recommendations
-
-## 📌 Recommendations
 
 ### 🛑 Cancellation Management
 - Strengthen cancellation policies, especially for **Non-Refundable bookings** where cancellations remain surprisingly high.  
