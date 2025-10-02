@@ -51,13 +51,13 @@ The project dataset contains **36 columns** and **119,390 rows**. The hotel book
 
 ---
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * **Power BI** (Power Query / M, Data Modeling, DAX)
 
 ---
 
-##🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 1. **Renamed columns** to readable/consistent names.
 2. **Fixed invalid ADR values**: negative ADR values were converted to positive (absolute value).
