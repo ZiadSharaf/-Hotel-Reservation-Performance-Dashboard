@@ -169,11 +169,7 @@ Relationships: `Fact_Bookings` -> each `Dim_*` via keys.
 
 ## How to Use
 
-1. Clone the repo.
-2. Place sanitized `hotel_bookings.csv` into `data/raw/` (or connect Power BI to source).
-3. Run Power Query scripts (or open the provided pbix) to load fact & dimension tables.
-4. Build relationships (or use provided pbix).
-5. Explore dashboards with slicers and visuals.
+**Explore the interactive dashboard directly on [NovyPro](https://project.novypro.com/QxFgsy).**
 
 ---
 
